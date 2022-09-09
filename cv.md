@@ -21,3 +21,9 @@
   htmlacademy
 
 
+## Language:
+  Ukraine - navite
+  
+  Russian - advanced
+  
+  English - pre-intermediate
